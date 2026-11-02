@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# dane pomiarowe (dane biomedyczne - nie publikować)
+data/*
+!data/.gitkeep
+aidlab_ecg_*.csv
+features_*.csv

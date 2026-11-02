@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+pyqtgraph
+PyQt5
+aidlab
